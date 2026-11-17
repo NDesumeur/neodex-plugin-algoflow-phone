@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.algoflow",
+  "repo": "NDesumeur/neodex-plugin-algoflow-phone",
+  "version": "1.0.0",
+  "sha256": "2d6eaa1e3d43e50734dd879f46542ff6249ed6f601c09e71f1912d6eef6a468a",
+  "approvedAt": "2026-11-17T18:40:02.582Z",
+  "neobase": ">=4.0.0",
+  "signature": "X+zA8gk3pxZM9IypRDbJENRQgpItESXNITBNdnFSbJQdhSh1WPUEXbP7LSUnLuDe67vE2B9HziAZlofLfsG/Aw=="
+}
