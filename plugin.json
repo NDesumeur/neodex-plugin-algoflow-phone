@@ -1,0 +1,25 @@
+{
+  "id": "neodex.algoflow",
+  "name": "AlgoFlow",
+  "version": "1.0.0",
+  "author": "NDesumeur",
+  "description": "Regarde les algorithmes travailler, étape par étape : 8 tris (bulles, insertion, sélection, fusion, rapide, tas, Shell, comptage), 2 recherches (linéaire, dichotomique) et 4 parcours de graphe sur une grille que tu dessines (largeur, profondeur, Dijkstra, A*) avec murs, boue et labyrinthes. Le pseudo-code s'allume ligne par ligne, les comparaisons et écritures sont comptées, et tu avances, recules ou changes la vitesse à volonté. Nouveau : la course entre deux tris sur le même tableau.",
+  "icon": "icon.png",
+  "entry": "index.js",
+  "view": "algoflow",
+  "neobase": ">=4.0.0",
+  "type": "app",
+  "category": "Outils",
+  "mobile": true,
+  "compatibility": [
+    "android"
+  ],
+  "syncMode": "fusion",
+  "syncInfo": "L'algorithme choisi, la vitesse et la grille dessinée.",
+  "system": false,
+  "dependencies": {},
+  "sdk": "2.1.0",
+  "permissions": [
+    "storage"
+  ]
+}
